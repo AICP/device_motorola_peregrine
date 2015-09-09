@@ -2,6 +2,3 @@
 
 # radio
 rild.libargs=-d /dev/smd0
-
-#AICP Device Maintainers
-ro.aicp.maintainer=semdoc (doc HD)
